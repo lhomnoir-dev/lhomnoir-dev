@@ -5,7 +5,7 @@ Etudiant en Big Data | Développeur Backend junior
 
 ## About Me
 
-Junior backend developer passionate about building reliable and efficient web APIs. I'm focused on mastering modern backend technologies and best practices, with a strong foundation in Python frameworks and relational databases.
+Étudiant en **Big Data** et **Développeur Backend**, je construis des applications performantes, des APIs scalables et des agents IA intelligents. J'accorde une grande importance à la conception propre et à l'architecture des systèmes (UML / MERISE)..
 
 ## Skills & Technologies
 
