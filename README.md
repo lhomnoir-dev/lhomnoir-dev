@@ -1,7 +1,6 @@
-# Odilon
+# Togou N'guessan Odilon
 
-Junior Backend Developer | Python & FastAPI Enthusiast
-
+Etudiant en Big Data | Développeur Backend junior
 ---
 
 ## About Me
@@ -10,22 +9,23 @@ Junior backend developer passionate about building reliable and efficient web AP
 
 ## Skills & Technologies
 
-- **Languages:** Python
-- **Backend Frameworks:** FastAPI, Flask
-- **Databases:** PostgreSQL
-- **Tools & Concepts:** Git, REST APIs, API Design
+* **Langages & Programmation :** Python, Golang
+* **Backend & APIs :** FastAPI, Architecture REST
+* **IA & Agents :** LangGraph, LLM Agents
+* **Bases de données :** PostgreSQL, Big Data concepts
+* **Outils & Systèmes :** Linux, Git / GitHub, Modélisation (UML, MERISE)
 
 ## Projects
-
-*Add your best projects here with descriptions and links.*
-
-- Coming soon
+* **Assistant IA Telegram (LangGraph) :** Un agent intelligent orchestré via Telegram pour automatiser des tâches et interagir de manière contextuelle.
+* **API Gestionnaire de Dépenses :** Une API sécurisée et optimisée pour le suivi et l'analyse des finances personnelles (FastAPI, PostgreSQL).
+* **API Gestionnaire de Tâches :** Service backend robuste pour la gestion de projets et de flux de travail.
+* **Site d'Événements Locaux :** Application web recensant les événements culturels et communautaires autour de soi.
 
 ## Let's Connect
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 odilon@example.com
-- 🔗 [Portfolio](your-portfolio-url)
+- [LinkedIn](https://www.linkedin.com/in/n-guessan-odilon-togou-914662316/)
+- odilonnguessant@gmail.com
+- [Portfolio](your-portfolio-url)
 
 ---
 
