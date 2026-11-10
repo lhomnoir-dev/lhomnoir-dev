@@ -24,8 +24,8 @@ Etudiant en Big Data | Développeur Backend junior
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/n-guessan-odilon-togou-914662316/)
-- odilonnguessant@gmail.com
-- [Portfolio](your-portfolio-url)
+- [Email](odilonnguessant@gmail.com)
+
 
 ---
 
