@@ -16,10 +16,10 @@ Junior backend developer passionate about building reliable and efficient web AP
 * **Outils & Systèmes :** Linux, Git / GitHub, Modélisation (UML, MERISE)
 
 ## Projects
-* **Assistant IA Telegram (LangGraph) :** Un agent intelligent orchestré via Telegram pour automatiser des tâches et interagir de manière contextuelle.
-* **API Gestionnaire de Dépenses :** Une API sécurisée et optimisée pour le suivi et l'analyse des finances personnelles (FastAPI, PostgreSQL).
-* **API Gestionnaire de Tâches :** Service backend robuste pour la gestion de projets et de flux de travail.
-* **Site d'Événements Locaux :** Application web recensant les événements culturels et communautaires autour de soi.
+* **[Assistant IA Telegram (LangGraph)](https://github.com/lhomnoir-dev/Syna) :** Un agent intelligent orchestré via Telegram pour automatiser des tâches et interagir de manière contextuelle.
+* **[API Gestionnaire de Dépenses](https://github.com/lhomnoir-dev/expense-tracker-api) :** Une API sécurisée et optimisée pour le suivi et l'analyse des finances personnelles (FastAPI, PostgreSQL).
+* **[API Gestionnaire de Tâches] :** Service backend robuste pour la gestion de projets et de flux de travail.
+* **[Site d'Événements Locaux](https://github.com/lhomnoir-dev/goEvents) :** Application web recensant les événements culturels et communautaires autour de soi.
 
 ## Let's Connect
 
