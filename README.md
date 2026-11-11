@@ -1,11 +1,11 @@
 # Togou N'guessan Odilon
 
-Etudiant en Big Data | Développeur Backend junior
+Etudiant en Big Data | Développeur fullstack junior
 ---
 
 ## About Me
 
-Étudiant en **Big Data** et **Développeur Backend**, je construis des applications performantes, des APIs scalables et des agents IA intelligents. J'accorde une grande importance à la conception propre et à l'architecture des systèmes (UML / MERISE)..
+Étudiant en **Big Data** et **Développeur fullstack**, je construis des applications performantes, des APIs scalables et des agents IA intelligents. J'accorde une grande importance à la conception propre et à l'architecture des systèmes (UML / MERISE)..
 
 ## Skills & Technologies
 
