@@ -9,7 +9,7 @@ Etudiant en Big Data | Développeur fullstack junior
 
 ## Skills & Technologies
 
-* **Langages & Programmation :** Python, Golang
+* **Langages & Programmation :** Python, Golang, HTML/CSS,JavaScript
 * **Backend & APIs :** FastAPI, Architecture REST
 * **IA & Agents :** LangGraph, LLM Agents
 * **Bases de données :** PostgreSQL, Big Data concepts
