@@ -24,7 +24,7 @@ Etudiant en Big Data | Développeur fullstack junior
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/n-guessan-odilon-togou-914662316/)
-- [Email](odilonnguessant@gmail.com)
+- [Email](lhomnoir.dev@gmail.com)
 
 
 ---
